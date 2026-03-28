@@ -2,7 +2,7 @@
 # DO NOT REMOVE OR RENAME THIS FILE
 PLAYER_1_NAME = "A"
 # Point each player path at a Python bot directory with commands.json
-PLAYER_1_PATH = "./python_skeleton"
+PLAYER_1_PATH = "./p_brother"
 # NO TRAILING SLASHES ARE ALLOWED IN PATHS
 PLAYER_2_NAME = "B"
 PLAYER_2_PATH = "./check_call_bot"
@@ -19,7 +19,7 @@ STARTING_GAME_CLOCK = 60.0
 BUILD_TIMEOUT = 10.0
 CONNECT_TIMEOUT = 10.0
 # DEFAULT MATCH PARAMETERS (also mirrored in tournament_config.json)
-NUM_ROUNDS = 20
+NUM_ROUNDS = 1000
 STARTING_STACK = 250
 BIG_BLIND = 5
 SMALL_BLIND = 2
